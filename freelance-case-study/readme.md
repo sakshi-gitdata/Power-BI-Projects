@@ -1,5 +1,11 @@
 # 📊 Superstore Sales Dashboard – Power BI
 
+**Power BI portfolio project | Interactive Sales Dashboard for small businesses**
+
+![Service: Power BI Dashboard](https://img.shields.io/badge/Service-Power%20BI-blue) 
+![Duration: 3 days](https://img.shields.io/badge/Duration-3%20days-green)
+
+
 This dashboard analyzes sales performance across regions, categories, and customer segments. It helps businesses quickly understand **profitability**, **top-performing products**, and **yearly trends**.
 
 ---
@@ -63,7 +69,7 @@ Interactive filters allow owners to quickly drill into regions, categories, and 
 ---
 
 ## 📁 Dataset
-- Superstore dataset (public)
+- [Superstore dataset (public)](https://www.kaggle.com/datasets/...)
 
 ---
 
