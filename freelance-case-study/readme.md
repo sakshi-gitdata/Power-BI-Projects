@@ -46,11 +46,11 @@ Interactive filters allow owners to quickly drill into regions, categories, and 
 ---
 
 ## 📸 Dashboard Preview (Desktop View)
-![Dashboard Screenshot](path/to/dashboard_desktop.png)
+![Dashboard Screenshot](freelance-case-study/dashboard_desktop.png)
 
 
 ## 🎥 Dashboard Walkthrough (Video)
-[Watch the demo video](path/to/demo_video.mp4)
+[Watch the demo video](freelance-case-study/Sales Dashboard - short demo.mp4)
 
 ---
 
