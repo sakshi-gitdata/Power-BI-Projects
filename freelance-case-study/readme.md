@@ -50,7 +50,7 @@ Interactive filters allow owners to quickly drill into regions, categories, and 
 
 
 ## 🎥 Dashboard Walkthrough (Video)
-[Watch the demo video](freelance-case-study/Sales Dashboard - short demo.mp4)
+[Watch the demo video](freelance-case-study/Sales%20Dashboard%20-%20short%20demo.mp4)
 
 ---
 
