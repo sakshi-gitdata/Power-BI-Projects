@@ -88,3 +88,9 @@ This dashboard helps owners:
 ## 💬 Interested?
 If you’d like a free 10-minute sales audit (review 1 week or 1 month of CSV), reach out:  
 📧 Email: sakshiys.sharma@gmail.com  
+
+---
+
+## 🔗 Notion Case Study Page  
+A clean, client-friendly version of this case study is available here:  
+👉 **https://www.notion.so/Superstore-Sales-Insights-Dashboard-Power-BI-2af94244b88c8010a820eea83a7ed3cf**
