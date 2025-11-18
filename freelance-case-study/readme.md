@@ -68,11 +68,6 @@ Interactive filters allow owners to quickly drill into regions, categories, and 
 
 ---
 
-## 📁 Dataset
-- [Superstore dataset (public)](https://www.kaggle.com/datasets/...)
-
----
-
 ## 💰 Business Value
 This dashboard helps owners:
 - Identify top and underperforming categories quickly  
